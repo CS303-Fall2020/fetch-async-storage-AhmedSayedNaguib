@@ -1,0 +1,8 @@
+{
+  "urlRandomness": "yt-nvs",
+  "hostType": "lan",
+  "lanType": "ip",
+  "dev": true,
+  "minify": false,
+  "https": false
+}
